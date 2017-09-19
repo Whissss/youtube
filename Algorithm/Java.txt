@@ -1,0 +1,35 @@
+﻿Quy tắc phạm vi của biến trong java : Khi 1 biến đã được khai báo rồi thì sẽ không được khai báo lại bất kỳ lần nào nữa
+
+&& : AND tối ưu 
+|| : OR tối ưu
+& : AND bình thường
+| : OR bình thường 
+------ : Khác nhau giữa bình thường và tối ưu : Tối ưu sẽ chỉ đánh giá toán hạng thứ hai khi cần thiết . Bình thường sẽ đánh giá cả 2 toán hạng .
+
+vd : 
+d = 0 , n = 10 ; if ( d!=0 && (n % d) == 0 ){...} : Nhận thấy d!=0 thì ctrinh dừng lại .
+d = 0 , n = 10 ; if ( d!=0 && (n % d) == 0 ){...} : Thực hiện cả 2 điều kiện cùng 1 lúc => ctrinh lỗi vì chia cho 0 ;
+
+Phương thức finalize();
+
+IS-A : Chỉ có đơn kế thừa trong Java , vì kể cả 2 class A và B cùng hoặc khác phương thức thì cũng có nguyc cơ Run time Error .
+
+Quan hệ HAS-A : Giúp làm tăng tính tái sử dụng của code . Khi không có mối quan hệ IS-A thì HAS-A là lựa chọn tốt nhất . HAS-A là cách thức kế thừa bình thường .
+
+
+Ghi đè phương thức : Ghi đè phương thức là các phương thức giống nhau được định nghĩa ở các class khác nhau . Khi gọi các phương thức ở main() thì cần thông qua các class .
+
+Nạp chồng phương thức : Trong 1 class có các phương thức giống nhau , nhưng khác nhau về tham số . 	void sum(int a,int b){System.out.println(a+b);}  
+  		void sum(int a,int b,int c){System.out.println(a+b+c);}
+
+super() : Khi gặp vấn đề về các biến giống nhau ở các class khác nhau => không phân biệt được các biến trong hàm main(). Khi gọi super thì sẽ triệu hồi tới biến instance của lớp cha gần nhất
+
+instance_initializer_block : được triệu hồi khi construct của lớp cha được triệu hồi . super() triệu hồi trước nhất -> instance_initializer_block rồi đến các thuộc tính của phương thức con .
+
+
+Final trong Java : 
+
+
+Tính đa hình : 1 sự việc đơn chúng ta có thể thực hiện theo nhiều cách khác nhau .
+
+

@@ -1,0 +1,41 @@
+﻿Viết một website hash dữ liệu người dùng nhập vào, sử dụng function hash và lấy các type hash trong array hash_algos().
+Ví dụ người dùng nhập '1' thì server side sẽ hash nó lại với md2, md5, sha1 func,... sau đó return giá trị đó về
+
+Landing Page Builder
+Drag&Drop Page Editor
+Sell Products/Service
+Simple WYSIWYG Editor
+Mobile Responsive Pages
+Professional Themes &template
+A/B Split Testing
+Complete Page & Funnel Builder
+One Click Upsells/Downsells
+Webinar Funnels
+Membership Sites
+Two Step Optins
+Instant Optins
+Click Pops
+Text Optin
+Conversion Tracking & Stats
+Create Personal Page Templates
+Drag& Drop Funnel Arrangement
+Easily Duplicate Pages
+Custom Webhooks
+Email Optin Form Builder
+Custom SEO, Meta, Keywords
+Custom Domains
+Basic Follow-up emails
+Digital Asset Delivery
+Contact List Segmentation
+Unique Social Contact Profiles
+ActionScore Lead Scoring (RFMS)
+Email Sequences (Autoresponder)
+Text Messages Steps
+Email Broadcat
+Complete CRM
+Marketing Automation Sequences
+Collect and Manage Subscribers
+Email Performance Tracking
+Lead Scoring
+Drag&Drop email Editor
+Mobile responsive emails
